@@ -7,5 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1qXB1eK09LXda-R6916CxlOMeNJcdPOYS
 """
 
-print("Halo Dunia !")
-print("Belajar AI !")
+print("Halo Orbit !")
+print("Belajar ML !")
+print("Yes !")
